@@ -89,7 +89,7 @@ Start the container using the built image:
 ```bash
 docker run -p 8501:8501 ml-model-app
 ```
-Access the Streamlit app in your browser at `https://predictionqualitevin.streamlit.app/`.
+Access the Streamlit app in your browser at (https://predictionqualitevin.streamlit.app/).
 
 ### 6. Stop and Clean Docker Resources
 1. Stop the running container:
